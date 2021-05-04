@@ -19,3 +19,6 @@ __$ git push
 	or
 $ git push origin your-branch__
 
+===============================================================
+https://github.com/pedromeneres/IRC_Proj - automatic!
+[@pedromeneres](https://github.com/pedromeneres/IRC_Proj)
