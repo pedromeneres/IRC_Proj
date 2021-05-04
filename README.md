@@ -19,4 +19,4 @@ __$ git push
 $ git push origin your-branch__
 
 ===============================================================
-ON GIT: [@pedromeneres](https://github.com/pedromeneres/IRC_Proj)
+On GitHub: [@pedromeneres](https://github.com/pedromeneres/IRC_Proj)
