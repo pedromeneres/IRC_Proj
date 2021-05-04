@@ -1,6 +1,5 @@
 # IRC_Proj
 
-
 ### Adiciona o arquivo ao repositório local e faz stage dele para commit. Para remover o stage de um arquivo, use "git reset HEAD YOUR-FILE".
 
 __$ git add <nameofthefile>__
@@ -20,5 +19,4 @@ __$ git push
 $ git push origin your-branch__
 
 ===============================================================
-https://github.com/pedromeneres/IRC_Proj - automatic!
-[@pedromeneres](https://github.com/pedromeneres/IRC_Proj)
+ON GIT: [@pedromeneres](https://github.com/pedromeneres/IRC_Proj)
